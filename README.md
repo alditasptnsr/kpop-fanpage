@@ -87,7 +87,7 @@ kpop-fanpage/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/[your-username]/kpop-fanpage.git
+git clone https://github.com/alditasptnsr/kpop-fanpage.git
 cd kpop-fanpage
 ```
 
